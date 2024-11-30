@@ -2,9 +2,9 @@
 
 I'm wahyu, Fullstack developer from ![](https://raw.githubusercontent.com/yammadev/flag-icons/refs/heads/master/png/ID%402x.png) Indonesia,Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
 
-##$ Social Media 
+### Social Media 
 
-![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![### @PanggilsajaWahyu](instagram.com/panggilsywahyu)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![@PanggilsajaWahyu](instagram.com/panggilsywahyu)
 # Things I code With
 
 ### Device
