@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Thomas, Fullstack developer from Indonesia, Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
+I'm wahyu, Fullstack developer from Indonesia, Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
 
 #Things I code With
 
