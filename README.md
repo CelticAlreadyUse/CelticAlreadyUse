@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-I'm wahyu, Fullstack developer from ![image](https://github.com/user-attachments/assets/72741800-c8ee-4095-8d46-b5eb42093f05)
+I'm wahyu, Fullstack developer from ![image](https://github.com/user-attachments/assets/d7995a52-2c25-4fdd-8548-ac026651342e)
+
 Indonesia,Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
 
 # Things I code With
