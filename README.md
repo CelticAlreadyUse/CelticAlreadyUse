@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm wahyu, Fullstack developer from ![](https://flagicons.lipis.dev/flags/2x2/id.svg)Indonesia,Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
+I'm wahyu, Fullstack developer from ![](https://flagicons.lipis.dev/flags/1x1/id.svg)Indonesia,Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
 
 # Things I code With
 
