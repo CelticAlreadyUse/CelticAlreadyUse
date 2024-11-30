@@ -4,7 +4,7 @@ I'm Thomas, Fullstack developer from Indonesia, Yogyakarta, currently living in 
 
 #Things I code With
 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <!--
 **CelticAlreadyUse/CelticAlreadyUse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
