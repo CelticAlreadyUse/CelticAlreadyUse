@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm wahyu, Fullstack developer from https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/62.svgIndonesia, Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
+I'm wahyu, Fullstack developer from ![Flag](https://raw.githubusercontent.com/pedromxavier/flag-badges/main/badges/62.svgIndonesia), Yogyakarta, currently living in Yogyakarta,Sleman,Nganglik.
 
 # Things I code With
 
