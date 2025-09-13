@@ -4,7 +4,8 @@ I'm wahyu, Fullstack developer from ![](https://raw.githubusercontent.com/yammad
 
 ### Social Media 
 
-![https://instagram.com/panggilsywahyu](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
+## @wahyra
 # Things I code With
 
 ### Device
